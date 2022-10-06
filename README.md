@@ -42,6 +42,10 @@ Ya ya I know, you are very confused, buddy! I got you <3
 - Please don't make any changes to the README.md file.
 - Please read [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
 
+## Are you a Software Developer💻?
+This repo is open to contributions (in the form of questions) from Software Developers.
+
+
 ###               **HACKTOBERFEST 2022**
 
 <p align="center">
